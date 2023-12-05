@@ -9,11 +9,11 @@
     ],
     "fileStates": {
         "level-map.tmx": {
-            "scale": 1,
+            "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 167.5,
-                "y": 221.5
+                "x": 226.99999999999997,
+                "y": 374.33333333333326
             }
         },
         "tiles.tsx": {
