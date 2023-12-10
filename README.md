@@ -1,8 +1,8 @@
 # Tasty Trails
 
-A flutter game using flame
+A flutter puzzle game using flame. 
 
-## Things to setup later
+## Developer notes
 
 Package easy_localization need additional setup when launching on ios
 
